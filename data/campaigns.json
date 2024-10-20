@@ -1,0 +1,122 @@
+{
+  "campaigns": [
+    {
+      "name": "Blockchain Basics Campaign",
+      "description": "A campaign to help newcomers understand blockchain technology.",
+      "tasks": [
+        {
+          "name": "Watch Intro Video",
+          "description": "Watch a 15-minute introduction to blockchain technology.",
+          "proof": "Submit the quiz after watching the video.",
+          "pointsEarned": "15",
+          "price": "0"
+        },
+        {
+          "name": "Join Discord Community",
+          "description": "Join our blockchain community on Discord and introduce yourself.",
+          "proof": "Provide a screenshot of your introduction message in Discord.",
+          "pointsEarned": "5",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "Smart Contract Mastery",
+      "description": "A campaign for developers to dive deeper into smart contract development.",
+      "tasks": [
+        {
+          "name": "Complete Solidity Tutorial",
+          "description": "Complete the Solidity smart contract tutorial.",
+          "proof": "Submit the GitHub repo link of your completed smart contract.",
+          "pointsEarned": "25",
+          "price": "0"
+        },
+        {
+          "name": "Deploy Contract to Testnet",
+          "description": "Deploy your smart contract to the Ethereum testnet.",
+          "proof": "Provide the testnet transaction hash.",
+          "pointsEarned": "30",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "Testing Campaign",
+      "description": "This is a test of campaigns",
+      "tasks": [
+        {
+          "name": "This is some task",
+          "description": "This is a task that we will campaign with",
+          "proof": "Add Screenshot ",
+          "pointsEarned": "50",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "New test of campaign",
+      "description": "this is another test",
+      "tasks": [
+        {
+          "name": "task item",
+          "description": "do a thing",
+          "proof": "give a proof ",
+          "pointsEarned": "80",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "New test of campaign",
+      "description": "this is another test",
+      "tasks": [
+        {
+          "name": "task item",
+          "description": "do a thing",
+          "proof": "give a proof ",
+          "pointsEarned": "80",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "Test onchain",
+      "description": "First onchain ",
+      "tasks": [
+        {
+          "name": "Get on chain",
+          "description": "We are on chain",
+          "proof": "trx hash ",
+          "pointsEarned": "10",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "Testing onchain",
+      "description": "first onchain actually ",
+      "tasks": [
+        {
+          "name": "get onchain",
+          "description": "testing onchain",
+          "proof": "trx hash",
+          "pointsEarned": "10",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "name": "TEsting blah",
+      "description": "blah blah ",
+      "tasks": [
+        {
+          "name": "follow me on tweeeeterz",
+          "description": "do the follloooow",
+          "proof": "screenshot",
+          "pointsEarned": "10",
+          "price": "0"
+        }
+      ]
+    }
+  ]
+}
